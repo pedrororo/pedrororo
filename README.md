@@ -1,7 +1,7 @@
 # Pedro A. A. Silva 👨💻  
 **Data Engineer & Machine Learning Specialist**  
 *Mundo Novo, Juiz de Fora, MG – Brazil*  
-[LinkedIn](link) · [GitHub](link) · [Kaggle](link) · [Hugging Face](link)  
+[LinkedIn]([link](https://www.linkedin.com/in/pedro-andre-arroyo-silva/)) · [GitHub](link) · [Kaggle](link) · [Hugging Face](link)  
 
 ---
 
