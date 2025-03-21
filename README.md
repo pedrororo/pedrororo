@@ -6,11 +6,16 @@
 ---
 
 ### About Me 🌟  
-Ph.D.-level data professional blending **computational modeling** (PDEs, reaction-diffusion systems) with **cloud-native data engineering**.  
-- 2+ years in **NLP**, **predictive modeling**, and scalable ML systems  
-- Expert in bridging **mathematical rigor** with business impact   
-- Passionate about open-source tools and democratizing data access  
+**Professional Summary**  
+Ph.D.-level Data Engineer blending **10+ years of mathematical computer engineering** expertise (PDEs, reaction-diffusion systems, computational modeling) with **2+ years of dedicated NLP/machine learning** innovation. Leverage rigorous mathematical foundations to design:  
+- Cloud-native data pipelines (AWS, Databricks)  
+- GDPR-compliant ML systems for sensitive datasets
+- LLM-driven solutions for Portuguese-language NLP challenges
 
+Bridging **theoretical mathematics** (discrete-event simulation, cardiac electrophysiology modeling) and **applied AI**, with recent focus on:  
+- Deploying scalable ML architectures (Docker, Terraform)  
+- Optimizing RNNs for sequential data analysis  
+- Leading cross-functional teams in regulated environments  
 ---
 
 ### Key Expertise 🛠️  
