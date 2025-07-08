@@ -42,7 +42,6 @@ Bridging **theoretical mathematics** (discrete-event simulation, cardiac electro
 **FrameNet Brasil/UFJF** | *ML/NLP Researcher*  
 *2023 – 2024*  
 - Built LLM pipelines for Portuguese text analysis  
-- 3+ peer-reviewed publications on model interpretability  
 
 **Vox Radar** | *Data Scientist*  
 *2021 – 2022*  
