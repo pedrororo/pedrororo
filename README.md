@@ -1,76 +1,87 @@
-# Pedro A. A. Silva 👨💻  
-**Data Engineer & Machine Learning Specialist**  
-*Mundo Novo, Juiz de Fora, MG – Brazil*  
-[LinkedIn](https://www.linkedin.com/in/pedro-andre-arroyo-silva/) · [GitHub](https://github.com/pedrororo) · [Kaggle](https://www.kaggle.com/peterroro) · [Hugging Face](https://huggingface.co/pedrororo)  
+<!-- Profile README – Pedro A. A. Silva -->
+
+<h1 align="center">
+  Pedro A. A. Silva &nbsp;👨‍💻
+</h1>
+<p align="center">
+  <b>Full-Stack Data Engineer&nbsp;&bull;&nbsp;Multimodal ML Specialist</b><br>
+  Juiz de Fora, MG&nbsp;&mdash;&nbsp;Brazil
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-andre-arroyo-silva/">LinkedIn</a> •
+  <a href="https://github.com/pedrororo">GitHub</a> •
+  <a href="https://www.kaggle.com/peterroro">Kaggle</a> •
+  <a href="https://huggingface.co/pedrororo">Hugging Face</a>
+</p>
 
 ---
 
-### About Me 🌟  
-**Professional Summary**  
-Ph.D.-level Data Engineer blending **10+ years of mathematical computer engineering** expertise (PDEs, reaction-diffusion systems, computational modeling) with **2+ years of dedicated NLP/machine learning** innovation. Leverage rigorous mathematical foundations to design:  
-- Cloud-native data pipelines (AWS, Databricks)  
-- GDPR-compliant ML systems for sensitive datasets
-- LLM-driven solutions for Portuguese-language NLP challenges
-
-Bridging **theoretical mathematics** (discrete-event simulation, cardiac electrophysiology modeling) and **applied AI**, with recent focus on:  
-- Deploying scalable ML architectures (Docker, Terraform)  
-- Optimizing RNNs for sequential data analysis  
-- Leading cross-functional teams in regulated environments  
----
-
-### Key Expertise 🛠️  
-**Machine Learning & AI**  
-`PyTorch` · `TensorFlow` · `LLMs` · `RNNs` · `NLP` · `Hugging Face`  
-
-**Data Engineering**  
-`AWS (S3/Lambda/Redshift)` · `Databricks` · `PySpark` · `GDPR-compliant pipelines` 
-
-**Scientific Computing**  
-`Python` · `MATLAB` · `SciPy` · `Discrete-event simulation`  
-
-**Automation & DevOps**  
-`Terraform` · `Docker` · `Selenium` · `RPA`  
+## 🚀 About Me
+PhD-trained problem-solver who **turns messy, high-volume data into secure, self-service products**.  
+I build cloud-native lake-houses (AWS + Databricks), automate ETL with Python/Selenium bots, fine-tune **YOLOv8 + BLIP** on EN/PT FrameNet data, and ship Node/React dashboards on PostgreSQL—while holding **99.5% SLAs** and delivering **80% manual-effort cuts** & **35% cost savings**.
 
 ---
 
-### Professional Journey 🚀  
-**Artemis Smart Data** | *Data Engineer (ELT)*  
-*2024 – Present*  
-- Reduced processing costs by **25%** with AWS/Databricks pipelines  
-- Automated deployments using Terraform/Docker 
-
-**FrameNet Brasil/UFJF** | *ML/NLP Researcher*  
-*2023 – 2024*  
-- Built LLM pipelines for Portuguese text analysis  
-
-**Vox Radar** | *Data Scientist*  
-*2021 – 2022*  
-- Automated 70% of data tasks with Selenium/RPA 
+## 🛠 Core Strengths
+| Area | Impact Highlights |
+|------|-------------------|
+| **ETL Automation & Bots** | 10+ Python/Selenium templates (retry + alerts) → save 15h/week and trim ops cost 35% |
+| **Lake-House & Orchestration** | 20+ Databricks jobs/day on Delta Lake; dynamic scaling halves failure rates |
+| **Full-Stack Delivery** | AES-256 Node/TS APIs + React/Tailwind portals serving 40 analysts real-time data |
+| **Multimodal AI** | Fine-tuned YOLOv8 + BLIP → **+12 BLEU / +9 mAP**; models live on HF with Gradio demos |
+| **GDPR & Security** | S3 encryption, RBAC, audit trails; architecture green-lit by C-suite in one review |
+| **Agile Leadership** | 2-week Scrum sprints (Trello/ClickUp) → 20% faster releases; secured budget via ROI-driven roadmaps |
 
 ---
 
-### Academic Background 🎓  
-**Ph.D. Computational Engineering**  
-*UFJF | 2013–2018*  
-Thesis: *Discretization-dependent models for excitable media* (Published in *Phys. Rev. E*)  
-
-**M.Sc./B.Sc. Mathematics**  
-*UFJF/UFES | 2007–2013*  
+## 🔧 Tech Stack
+Python · PySpark · SQL · Node/TypeScript · React · PostgreSQL · Databricks · Delta Lake ·  
+AWS (S3, Lambda, IAM) · Docker · Terraform · YOLOv8 · BLIP · Hugging Face · Power BI · Tableau
 
 ---
 
-### Technical Arsenal 💻  
-| Category              | Tools                                                                 |
-|-----------------------|-----------------------------------------------------------------------|
-| **Data Engineering**  | AWS, Databricks, PySpark, Terraform, GDPR compliance                 |
-| **ML/AI**             | PyTorch, TensorFlow, Scikit-Learn, LLMs, NLP                         |
-| **DevOps**            | Docker, Kubernetes, Git                                              |
-| **Scientific**        | MATLAB, SciPy, Mathematica, LaTeX                                    |
-| **Visualization**     | Tableau, Power BI, Matplotlib, ParaView                              |
+## 💼 Professional Journey
+<table>
+  <tr>
+    <td><b>Artemis Smart Data</b><br><i>Data Engineer (Full-Stack)</i><br><sub>2024-Present</sub></td>
+    <td>
+      • Automated 20 + Databricks pipelines/day → 50% fewer failures <br>
+      • Deployed secure Node/TS API + React dashboard for 40 analysts<br>
+      • Cut AWS compute spend 35% via serverless re-design
+    </td>
+  </tr>
+  <tr>
+    <td><b>FrameNet Brasil / UFJF</b><br><i>ML Researcher</i><br><sub>2023-2024</sub></td>
+    <td>
+      • Fine-tuned YOLOv8 & BLIP on EN/PT FrameNet → +12 BLEU / +9 mAP <br>
+      • Published checkpoints on Hugging Face with live Gradio interface
+    </td>
+  </tr>
+  <tr>
+    <td><b>Vox Radar</b><br><i>Data Scientist</i><br><sub>2021-2022</sub></td>
+    <td>
+      • Automated 70% of social-data reporting via Selenium/RPA bots
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Let's Connect! 📫  
-📧 **arroyo.andre@gmail.com**  
-📱 +55 (32) 99135-8099  
-🌍 Languages: Portuguese, English, Spanish  
+## 🎓 Academic Background
+- **Ph.D. Computational Engineering – UFJF (2018)**  
+  *Thesis:* *Discretization-dependent models for excitable media* (*Phys. Rev. E*)  
+- **M.Sc. & B.Sc. Mathematics – UFJF (2013) · UFES (2011)*
+
+---
+
+## 🌐 Languages
+PT-BR (native) • EN (C1) • ES (B2)
+
+---
+
+## 📫 Let’s Connect
+- **Email:** arroyo.andre@gmail.com  
+- **Phone:** +55 (32) 99135-8099  
+
+_I’m always up for chatting about pipeline automation, lake-house strategy, or multimodal ML. Feel free to reach out!_
