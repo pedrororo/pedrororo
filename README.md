@@ -60,6 +60,23 @@ Python · SQL · dbt · DuckDB · Databricks · Delta Lake · Parquet · GitHub 
 
 ---
 
+## Building now
+
+Projects in progress. Code is private while it matures; I share the design and the results here.
+
+| Project | What it is | Where it stands |
+|---|---|---|
+| **Agro Data Platform** | A data platform for Brazilian agro prices (Cepea) and economic indicators (Central Bank API), built in 7 phases: ingestion → dbt modeling → data quality → serving → streaming → lakehouse at scale → cloud with Terraform and LGPD governance. | Phase 1 designed: Airflow 3, MinIO and Parquet, idempotent loads, backfills within API limits, and a quarantine for files that break the contract. Design doc and ADRs written before code. |
+| **Per-client Dashboard Portal** | A portal where each client sees only the dashboards an admin grants them. Isolation between clients is enforced by the database itself, not only by the code. | Working: signed Metabase embeds with the client filter locked in the token, login rate limiting, forced password change, 19 automated tests and an HTTP access matrix. Runs with Docker Compose; CI tests every push and publishes the image. |
+| **Job Market Lab** | Analysis on top of the Jobs Index data: who is hiring, where postings appear, and how fast they close (Kaplan-Meier). | Answers job-seeker questions per topic and region from the latest daily run. |
+| **Business Automation Lab** | Small tools for small Brazilian businesses: a quote comparator, an accounting-documents tracker and a budget tracker. | Streamlit app, used to test whether small businesses would pay for simple automation. |
+| **Recupera Orçamentos** | Reads WhatsApp sales conversations to find quotes nobody followed up on, and suggests the next message. | MVP with transparent rules and no AI API; the conversation text is not stored. |
+| **MarketFit CV** | Compares a CV with recent job postings to suggest adjacent titles and missing skills. | Front-end prototype for validation; no processing yet. |
+
+I also practice the unglamorous part: deliberately breaking my own projects (failing CI, access-control bugs, bad files from a source) and writing up what happened and how I fixed it.
+
+---
+
 ## Tech stack
 
 **Data:** Python · PySpark · SQL · dbt · DuckDB · Databricks · Delta Lake · PostgreSQL · Parquet<br>
