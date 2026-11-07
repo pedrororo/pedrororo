@@ -26,7 +26,8 @@ computational engineering, simulating excitable media (heart tissue models).
 
 ## Featured project: Jobs Index
 
-**Live → [pedrororo.github.io/remote-jobs-index](https://pedrororo.github.io/remote-jobs-index/)** · updated every day
+**Live → [pedrororo.github.io/remote-jobs-index](https://pedrororo.github.io/remote-jobs-index/)** · updated every day ·
+**Case study → [jobs-index-showcase](https://github.com/pedrororo/jobs-index-showcase)**: architecture, design trade-offs, what failed and how I fixed it, and a runnable sample on fake data
 
 A job-market data pipeline I designed and run on my own. It collects public
 job postings (tech and non-tech; remote, hybrid and on-site; Europe, US, LATAM
