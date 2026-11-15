@@ -66,6 +66,8 @@ Python · SQL · dbt · DuckDB · Databricks · Delta Lake · Parquet · Airflow
 
 ### LLM tooling on the same data
 
+**Repo → [job-market-lab](https://github.com/pedrororo/job-market-lab)**: MCP server, agent harness, evals and the salary pilot, runnable on the public site data
+
 - **MCP server** that exposes the job data to LLM agents through 5 tools, plus a
   small harness that runs the same agent on local (Ollama) and hosted models.
 - **LLM fallback for salary extraction** where regex rules fail: 45/48 correct
@@ -75,8 +77,9 @@ Python · SQL · dbt · DuckDB · Databricks · Delta Lake · Parquet · Airflow
   postings from the history data, and drafts answers with the Claude API or a
   local model.
 
-<!-- TODO(Pedro): the CV also claims "agent eval: local 7B model 9/12 → 11/12".
-     No source was found on disk; add it here only once the eval file exists. -->
+- **Agent evals:** 12 questions with independently computed answers; a local 7B model
+  (`qwen2.5:7b`, CPU) went from 9/12 to 11/12 on the same snapshot while I iterated on
+  the tool descriptions ([results](https://github.com/pedrororo/job-market-lab/tree/master/evals/agent)).
 
 ---
 
